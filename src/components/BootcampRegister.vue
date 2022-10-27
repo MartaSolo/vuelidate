@@ -168,6 +168,6 @@ export default {
   margin-bottom: 16px;
 }
 .errorMessage {
-  color: rgb(236, 78, 78);
+  color: rgb(236, 79, 79);
 }
 </style>
